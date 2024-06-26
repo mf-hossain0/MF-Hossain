@@ -6,8 +6,8 @@ Md Forhad Hossain
 
 💼 Experience:
 
-    Extensive experience in graphic design, including branding, print design, digital graphics, and UI/UX design.
-    Proficient in Adobe Creative Suite (Photoshop, Illustrator, InDesign) and other design tools.
+    Extensive experience in graphic design, including branding, print design, digital graphics, and AI design.
+    Proficient in Adobe Creative Suite (Photoshop, Illustrator) and other design tools.
 
 📚 Skills:
 
@@ -24,4 +24,6 @@ Md Forhad Hossain
     Collaborative approach to meet client needs and exceed expectations.
 
 🌐 Connect with Me:
-    Behance
+
+     [behance](https://www.behance.net/mdforhadhossain6)
+     
